@@ -6,3 +6,4 @@ pandas
 jupyter
 streamlit
 torch
+joblib
